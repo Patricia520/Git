@@ -1,0 +1,35 @@
+commit c0e4dc80763f2cc8984a8dfd070ef6ee470e0abe
+Author: Patrícia Ramos <patriciagon.ramos@gmail.com>
+Date:   Thu Apr 4 15:23:24 2024 -0300
+
+    Endereço sesi 265
+
+commit 3df4fdadb573383b4c8bf45cb7510cf03a5b0c93
+Author: Patrícia Ramos <patriciagon.ramos@gmail.com>
+Date:   Thu Apr 4 14:54:46 2024 -0300
+
+    Endereço Sesi 221
+
+commit 27527b2735ae533f9f7fced1b1b64c8ca976afc7
+Author: Patrícia Ramos <patriciagon.ramos@gmail.com>
+Date:   Thu Apr 4 14:18:30 2024 -0300
+
+    Descrição das alterações feitas no arquivo Sesi166.txt
+
+commit 52338d2122a0d4e93101340e1772b031f945f4a8
+Author: Patrícia Ramos <patricia.ramos@gmail.com>
+Date:   Thu Apr 4 13:47:08 2024 -0300
+
+    Mensagem do commit
+
+commit b362c8ada833d2c07a77d78a250e98e318a283bd
+Author: Patrícia Ramos <patriciagon.ramos@gmail.com>
+Date:   Thu Apr 4 13:28:43 2024 -0300
+
+    Adicionando arquivo Sesi166.txt
+
+commit a735344295d421df6e4e18e13d37a8f5146d8114
+Author: Patrícia Ramos <patriciagon.ramos@gmail.com>
+Date:   Thu Apr 4 11:08:34 2024 -0300
+
+    Endereço Sesi 094
